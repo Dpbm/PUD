@@ -1,4 +1,15 @@
 def fibonacci(n):
+    """
+        FIBONACCI FUNCTION
+
+        RETURN
+            list of n fibonacci numbers
+
+        ARGUMENTS
+            
+           n --> how many fibonacci numbers 
+    """
+
     controller = 0
     returnable = []
     
