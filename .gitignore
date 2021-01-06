@@ -4,6 +4,9 @@
 # vscode options
 .vscode
 
+# empty folder
+.empty
+
 # directory options
 .directory
 
